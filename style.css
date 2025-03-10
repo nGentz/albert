@@ -24,5 +24,11 @@ body {
   cursor: pointer;
 }
 
+@media (max-width: 768px) {
+  #gif {
+    width: 80vw; /* 80% of the viewport width on mobile */
+    max-width: none;
+  }
+}
 
 
