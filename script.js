@@ -1,14 +1,14 @@
 const messages = [
-    "Have a wonderful day!",
-    "You're awesome!",
-    "Keep smiling!",
+    "H1",
+    "2!",
+    "3!",
     "Happy Birthday Joyce!",
-    "Looking good today!",
-    "You rock!",
-    "Sending positive vibes!",
-    "Stay amazing!",
-    "Shine bright!",
-    "Be the best you!"
+    "4!",
+    "5!",
+    "6!",
+    "7!",
+    "8!",
+    "9!"
   ];
   
   const gifEl = document.getElementById('gif'),
