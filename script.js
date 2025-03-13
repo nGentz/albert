@@ -1,14 +1,14 @@
 const messages = [
-    "H1",
-    "2!",
-    "3!",
+    "oink",
+    "小猪",
+    "pigs have the intelligence of a toddler",
     "Happy Birthday Joyce!",
-    "4!",
-    "5!",
-    "6!",
-    "7!",
-    "8!",
-    "9!"
+    "🐷🤎",
+    "i love truffles",
+    "lodo is spanish for mud",
+    "cried at la la land (2016)✌️",
+    "i'm super shy, super shy",
+    "i can run 11 mph 😎"
   ];
   
   const gifEl = document.getElementById('gif'),
